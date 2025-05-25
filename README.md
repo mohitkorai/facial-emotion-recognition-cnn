@@ -3,7 +3,7 @@
 
 This project applies a Convolutional Neural Network (CNN) to classify facial expressions using the [FER-2013](https://www.kaggle.com/datasets/msambare/fer2013) dataset. The dataset contains 48×48 grayscale images representing 7 different emotions. Used deep learning with class balancing, normalization, and Keras model tuning.
 
-🎯 **Final Accuracy:** 82%  
+🎯 **Final Accuracy:** 82.85%  
 🧠 **Model Type:** Deep CNN with BatchNorm, Dropout, and Softmax output
 
 ---
@@ -53,7 +53,7 @@ This notebook demonstrates an end-to-end deep learning pipeline:
 
 | Metric       | Value |
 |--------------|-------|
-| Accuracy     | 82%   |
+| Accuracy     | 82.85%|
 | Classes      | 7     |
 | Input Shape  | 48×48 grayscale |
 
@@ -79,5 +79,5 @@ This notebook demonstrates an end-to-end deep learning pipeline:
 ## 📌 Author
 
 **Mohit Venkata Rama Swamy Korai**  
-Machine Learning & Data Science Enthusiast  
+Data Science and Machine Learning professional  
 [GitHub](https://github.com/mohitkorai) • [Kaggle](https://www.kaggle.com/mohitkorai) • [LinkedIn](https://www.linkedin.com/in/venkatasw/)
