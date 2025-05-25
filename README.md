@@ -1,12 +1,9 @@
 # facial-emotion-recognition-cnn
 Convolutional Neural Network to classify facial emotions using the FER-2013 dataset. Built with TensorFlow/Keras. 
 
-# facial-emotion-recognition-cnn
-Facial Emotion Classification using CNN and FER-2013 dataset — Achieved 82% accuracy using deep learning with class balancing, normalization, and Keras model tuning.
-
 # Facial Emotion Recognition - CNN Project
 
-This project applies a Convolutional Neural Network (CNN) to classify facial expressions using the [FER-2013](https://www.kaggle.com/datasets/msambare/fer2013) dataset. The dataset contains 48×48 grayscale images representing 7 different emotions.
+This project applies a Convolutional Neural Network (CNN) to classify facial expressions using the [FER-2013](https://www.kaggle.com/datasets/msambare/fer2013) dataset. The dataset contains 48×48 grayscale images representing 7 different emotions. Used deep learning with class balancing, normalization, and Keras model tuning.
 
 🎯 **Final Accuracy:** 82%  
 🧠 **Model Type:** Deep CNN with BatchNorm, Dropout, and Softmax output
